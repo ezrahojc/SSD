@@ -1,1 +1,3 @@
 # SSD
+
+This is the final assignment for my module, Secure Software Development in Ngee Ann Polytechnic. This is where my team and I applied our knowledge and experience of Microsoft Visual Studio, Razor Pages, Database management and API application to the secure website developed. We decided to build a toy store, that allows customers to register themselves using multiple methods (e.g. Google, Facebook, Microsoft). Despite the amount of inputs given for customers to enter their details, we heavily defended and locked down on the various potentially harming inputs attackers may attempt on our website, hence the defensive coding.
